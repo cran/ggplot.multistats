@@ -1,0 +1,9 @@
+47916f97485df35fd94f741fc55ed838 *DESCRIPTION
+f97529155d77c26dbcb3474d36276344 *NAMESPACE
+a4db2cb234d3e223e097567c1a9063e7 *R/draw_key_hexagon.r
+b3e78724e6078c0338e8c1222a79df2b *R/function_list.r
+7e8eeeb51903167cc1d28d4bee8d9b16 *R/stat_summaries_hex.r
+ba47a6501b2900d643aa513e210666ab *README.md
+2e6e2c6d1d8630395d97a17fbe299b53 *man/draw_key_hexagon.Rd
+f8cb3b22ab833aba777e6c7547c8c952 *man/normalize_function_list.Rd
+b54a0790f52de729765827ac747a1771 *man/stat_summaries_hex.Rd
