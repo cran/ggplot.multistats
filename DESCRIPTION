@@ -1,6 +1,6 @@
 Package: ggplot.multistats
 Title: Multiple Summary Statistics for Binned Stats/Geometries
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person(given = "Philipp",
            family = "Angerer",
@@ -16,12 +16,11 @@ URL: https://github.com/flying-sheep/ggplot.multistats
 BugReports: https://github.com/flying-sheep/ggplot.multistats/issues
 License: GPL-3
 Encoding: UTF-8
-LazyData: true
-Imports: methods, rlang, scales, hexbin, ggplot2
-RoxygenNote: 6.1.1
+Imports: methods, rlang, scales, hexbin, ggplot2 (>= 3.3.0)
+RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2019-10-22 15:28:56 UTC; angerer
+Packaged: 2024-09-25 12:16:05 UTC; phil
 Author: Philipp Angerer [aut, cre] (<https://orcid.org/0000-0002-0369-2888>)
 Maintainer: Philipp Angerer <phil.angerer@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-10-28 13:50:05 UTC
+Date/Publication: 2024-09-25 12:40:10 UTC
